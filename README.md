@@ -129,7 +129,7 @@ Before running the workflow notebook, prepare the following input files on your 
   * **Open Babel:** **`v3.1.1`** (chemical format conversion and topology reconstruction)
 
 ### Releases History
-* Version 1.0 (**`v1.0`**): September 14th, 2026 (Initial Stable Release)
+* Version 1.0 (**`v1.0`**): September 14th, 2026 ((Initial Stable Release for Google Colab Platform Only).
 
 ---
 
